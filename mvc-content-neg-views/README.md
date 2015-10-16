@@ -28,3 +28,9 @@ File -> Import -> Maven -> Existing Maven projects
 ```
 mvn eclipse:eclipse
 File -> Import -> General -> Existing Projects Into Workspace
+
+###Satihs Comments ####
+1) Along with Content Negotiation View Resolver, below features also added.
+   a) ExceptionHandling (HandlerExceptionReslover/@ExceptionHandler)
+   b) Interceptor (HandlerInterceptorAdaptor)
+   c) ResourceBundleMessageProcess (I18N, L10N)
